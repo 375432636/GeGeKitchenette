@@ -1,4 +1,4 @@
-## [Ge Ge Kitchenette](../index.html)
+## [Ge Ge Kitchenette](./index.html)
 
 ## 听完就能秒睡故事集
 
