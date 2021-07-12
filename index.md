@@ -2,7 +2,11 @@
 
 格格的专属博客, Made By Mr Huang
 
-## [The beginning of the stor](./post/20210704 The beginning of the story.html)
+## [Fourth Date](./post/20210709 Fourth Date.html)
+
+*2021-07-09 by Ge Ge*
+
+## [The beginning of the story](./post/20210704 The beginning of the story.html)
 
 *2021-07-04 by 黄老师 & Ge Ge*
 
