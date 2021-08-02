@@ -95,3 +95,13 @@
 
 <img src="https://375432636.github.io/myblog.github.io/%E5%B0%8F%E7%8E%8B%E5%AD%90/C12-1.jpg" style="zoom:100%;" />
 
+### 第十四章
+
+*2021-08-02*
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://375432636.github.io/myblog.github.io/%E5%B0%8F%E7%8E%8B%E5%AD%90/听完就能秒睡故事集 小王子第十四章.mp3">
+</audio>
+
+<img src="https://375432636.github.io/myblog.github.io/%E5%B0%8F%E7%8E%8B%E5%AD%90/C14-1.jpg" style="zoom:100%;" />
+
